@@ -1,1 +1,5 @@
-#:C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\QuickStartIdentityServer\src\MvcClient\MvcClient.xproj
+#:D:\Development\Learning\IdentityServer4\IdentityServer4CorePractice\src\QuickstartIdentityServer\QuickstartIdentityServer.xproj
+#:D:\Development\Learning\IdentityServer4\IdentityServer4CorePractice\src\Api\Api.xproj
+#:D:\Development\Learning\IdentityServer4\IdentityServer4CorePractice\src\ResourceOwnerClient\ResourceOwnerClient.xproj
+#:D:\Development\Learning\IdentityServer4\IdentityServer4CorePractice\src\Client\Client.xproj
+#:D:\Development\Learning\IdentityServer4\IdentityServer4CorePractice\src\MvcClient\MvcClient.xproj
